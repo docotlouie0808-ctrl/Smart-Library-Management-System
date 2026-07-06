@@ -20,3 +20,11 @@ Student Name: Docot, Edlouie R.
 Course: IT 3012 - System Integration and Architecture 1
 
 Section: BA 2A
+
+Member Management Module
+
+Features
+- Register New Member
+- Update Member Information
+- Delete Member Record
+- Search Member
