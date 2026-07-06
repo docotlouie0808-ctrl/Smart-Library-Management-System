@@ -14,6 +14,9 @@ Project Modules
 - Inventory Management
 - Reports
 Development Team
+
 Student Name: Docot, Edlouie R.
+
 Course: IT 3012 - System Integration and Architecture 1
+
 Section: BA 2A
